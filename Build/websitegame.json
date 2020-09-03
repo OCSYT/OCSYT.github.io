@@ -2,10 +2,11 @@
 "companyName": "OCS",
 "productName": "BulletShot",
 "dataUrl": "websitegame.data.unityweb",
-"asmCodeUrl": "websitegame.asm.code.unityweb",
-"asmMemoryUrl": "websitegame.asm.memory.unityweb",
-"asmFrameworkUrl": "websitegame.asm.framework.unityweb",
+"wasmCodeUrl": "websitegame.wasm.code.unityweb",
+"wasmFrameworkUrl": "websitegame.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
+"backgroundColor": "#231F20"
 }
